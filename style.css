@@ -1,0 +1,43 @@
+.weather-display {
+  color: #eaf3f9;
+  width: 500px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.wrapper{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.current-temp {
+  font-size: 60px;
+  cursor: pointer;
+}
+
+.current-weather {
+  font-size: 50px;
+}
+
+.weather-icon {
+  width: 150px;
+  height: 150px;
+}
+
+#location {
+  font-size: 50px;
+}
+
+header {
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 80px;
+  color: #eaf3f9;
+}
+
+body {
+  background-color: #252628;
+  font-family: 'Patua One' , cursive;
+}
